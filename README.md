@@ -29,8 +29,8 @@ sgd_model.fit(X_train,y_train)
 y_pred=sgd_model.predict(X_test)
 mse=mean_squared_error(y_test,y_pred)
 r2= r2_score(y_test,y_pred)
-print('Name:Sanjay A ')
-print('Reg No: 212225040367')
+print('Name:K KIRAN MUKESH ')
+print('Reg No: 212225040188')
 print("Mean Squared Error",mse)
 print("R-squared Score:",r2)
 print("\nModel Coefficients:")
@@ -49,7 +49,8 @@ RegisterNumber:  212225040367
 ```
 
 ## Output:
-![alt text](<Screenshot 2026-02-25 082708.png>)
+<img width="770" height="577" alt="image" src="https://github.com/user-attachments/assets/0aa78f34-f59f-4365-ae37-0a0449a06bd9" />
+
 
 <img width="712" height="232" alt="exp4" src="https://github.com/user-attachments/assets/f8add86b-3dbf-4816-992f-bb0d5a13118f" />
 
